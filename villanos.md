@@ -4,4 +4,3 @@ f
 f
 f
 a
-* Capitán America
